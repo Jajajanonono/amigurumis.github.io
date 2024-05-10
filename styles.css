@@ -1,0 +1,31 @@
+#antecedentes
+{
+    font-size: 20px;
+    text-align: center;
+    text-justify: auto;
+    border-style: dotted;
+    margin-left: 10%;
+    margin-right: 10%;
+    font-family: sans-serif;
+    border-color: #004AAD;
+}
+h3
+{
+    font-size: 30px;
+    text-align: center;
+    font-family: sans-serif;
+}
+h1
+{
+    font-size: 40px;
+    font-family: sans-serif;
+    color: #004AAD;
+    text-align: center;
+    font-weight: bold;
+    
+}
+#productos
+{
+    align-content: center;
+    text-align: center;
+}
