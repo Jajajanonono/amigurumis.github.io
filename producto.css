@@ -1,0 +1,47 @@
+img
+{
+    margin-top: 50px;
+    margin-left: 80px;
+    float: left;
+    width: 400px;
+    height: 400px;
+}
+#nombre
+{
+    font-size: 30px;
+    margin-left: 65%;
+    font-weight: bold;
+}
+#precio
+{
+    font-size: 25px;
+    margin-left: 65%;
+}
+#detalles
+{
+    font: 24px;
+    margin-left: 65%;
+}
+p
+{
+    font-family: sans-serif;
+}
+h1
+{
+    font-size: 40px;
+    font-family: sans-serif;
+    color: #FFFFFF;
+    text-shadow: 4px 4px 0px #004AAD;
+    text-align: center;
+    font-weight: bold;
+    top: 5%;
+    margin-top: 20px;
+    
+}
+#info
+{
+    margin-right: 17%;
+    margin-top: 70px;
+}
+
+

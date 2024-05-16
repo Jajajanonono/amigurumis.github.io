@@ -1,0 +1,53 @@
+#antecedentes
+{
+    font-size: 20px;
+    text-align: center;
+    text-justify: auto;
+    border-style: dotted;
+    margin-left: 10%;
+    margin-right: 10%;
+    font-family: sans-serif;
+    border-color: #004AAD;
+}
+h2
+{
+    font-size: 30px;
+    text-align: center;
+    font-family: sans-serif;
+    color: #FFFFFF;
+    text-shadow: 3px 3px 0px #004AAD;
+    
+}
+h1
+{
+    font-size: 40px;
+    font-family: sans-serif;
+    color: #FFFFFF;
+    text-shadow: 4px 4px 0px #004AAD;
+    text-align: center;
+    font-weight: bold;
+    top: 5%;
+    
+}
+#productos
+{
+    align-content: center;
+    text-align: center;
+    border-width: 10px;
+}
+img
+{
+    margin-inline: 20px 35px;
+}
+#titulo
+{
+    padding: 10px;
+    display: block;
+}
+table
+{
+    font-size: 20px;
+    font-family: sans-serif;
+    font-weight: bold;
+    border-spacing: 200px 0px;
+}
