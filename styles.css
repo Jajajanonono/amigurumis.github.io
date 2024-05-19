@@ -8,6 +8,7 @@
     margin-right: 10%;
     font-family: sans-serif;
     border-color: #004AAD;
+    margin-bottom: 100px;
 }
 h2
 {
@@ -35,10 +36,6 @@ h1
     text-align: center;
     border-width: 10px;
 }
-img
-{
-    margin-inline: 20px 35px;
-}
 #titulo
 {
     padding: 10px;
@@ -55,4 +52,34 @@ table
 {
     display: flex;
     justify-content: center;
+    margin-top: 60px;
+}
+#proceso
+{
+    width: auto;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+    margin-bottom: 70px;
+}
+#proceso img
+{
+    width: 300px;
+    height: 300px;
+    margin-inline: 20px 35px;
+}
+#productos img
+{
+    width: 400px;
+    height: 400px;
+    display:flex;
+    margin: 0 37% 40px; 
+}
+#menu a
+{
+    font-weight: bold;
+    font-size: 30px;
+    text-shadow: 3px 3px 0px #FFFFFF;
+    color: #004AAD;
 }

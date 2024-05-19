@@ -1,23 +1,23 @@
 img
 {
-    margin-top: 50px;
-    margin-left: 80px;
+    margin-top: 4%;
+    margin-left: 20%;
     float: left;
     width: 400px;
     height: 400px;
 }
-#nombre
+#info #nombre
 {
     font-size: 30px;
     margin-left: 65%;
     font-weight: bold;
 }
-#precio
+#info #precio
 {
     font-size: 25px;
     margin-left: 65%;
 }
-#detalles
+#info #detalles
 {
     font: 24px;
     margin-left: 65%;
@@ -41,7 +41,14 @@ h1
 #info
 {
     margin-right: 17%;
-    margin-top: 70px;
+    margin-top: 10%;
+}
+#menu a
+{
+    font-weight: bold;
+    font-size: 30px;
+    text-shadow: 3px 3px 0px #FFFFFF;
+    color: #004AAD;
 }
 table
 {
@@ -50,4 +57,3 @@ table
     font-weight: bold;
     border-spacing: 200px 0px;
 }
-
