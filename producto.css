@@ -26,6 +26,14 @@
     font: 30px;
     margin-left: 65%;
 }
+#info #regreso
+{
+    font-weight: bold;
+    font-size: 30px;
+    text-shadow: 3px 3px 0px #FFFFFF;
+    color: #004AAD;
+    margin-left: 65%;
+}
 p
 {
     font-family: sans-serif;
