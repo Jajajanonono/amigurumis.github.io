@@ -66,6 +66,11 @@ h1
     padding: 10px;
     display: block;
 }
+#titulo img
+{
+    height: 150px;
+    width: 150px;
+}
 #titulo h1
 {
     font-size: 40px;
