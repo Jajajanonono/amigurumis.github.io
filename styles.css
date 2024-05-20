@@ -32,8 +32,10 @@ h1
 }
 #productos
 {
-    align-content: center;
-    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
     border-width: 10px;
 }
 #titulo
@@ -67,14 +69,13 @@ table
 {
     width: 300px;
     height: 300px;
-    margin-inline: 20px 35px;
+    margin-inline: 10px 20px;
 }
 #productos img
 {
     width: 400px;
     height: 400px;
-    display:flex;
-    margin: 0 37% 40px; 
+    margin-bottom: 40px; 
 }
 #menu a
 {
